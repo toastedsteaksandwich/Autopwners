@@ -1,0 +1,1 @@
+The python script sqlautopwner writes a reverse shell into a server using SQL injection. Local file inclusion is then used to establish a handshake between netcat and the reverse shell.
