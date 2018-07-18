@@ -1,0 +1,3 @@
+The python script fileuploadautopwner exploits a file upload vulnerability. We upload a reverse shell and use local file inclusion. 
+The uploader is meant to accept only jpeg files. We can bypass this by uploading anyfile.anyextension%00.jpg
+We use mechanize to establish a handshake with netcat.
