@@ -1,0 +1,2 @@
+# Autopwners
+Automated vulnerability exploiters
